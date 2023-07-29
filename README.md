@@ -1,6 +1,6 @@
 
 ```css
-┌[almighty☮git]-(~)
+┌[wise☮git]-(~)
 └> mefetch
 ```
  
@@ -8,11 +8,11 @@
 <div style="display:block;text-align:left"><img align="left" src="https://avatars.githubusercontent.com/u/93069292?s=400&u=a4719d2a902717bf6752186046903400b4f6e4c0&v=4" border="0" style="width:156px;">
   
   ```css
-  almightydev@GitHub
+  wisebtw@GitHub
   -----------------
-  Name: almighty
-  Languages: ["JavaScript", "Bash", "Java"]
-  Intrests: ["CyberSecurity", "Linux", "IA"]  
+  Name: wise
+  Languages: ["JavaScript", "Bash", "Java", "JS"]
+  Intrests: ["CyberSecurity", "Linux", "IA", "Web"]  
   Uptime: 16 Years
   ```
 </div>
@@ -25,7 +25,7 @@
     $   <a href="" target="_blank">blog</a> .
     <a href="https://twitter.com/" target="_blank">twitter</a> .
     <a href="https://discordapp.com/users/50771411a0708908042" target="_blank">discord</a> .
-    <a href="https://github.com/almightydev" target="_blank">project-might</a> $
+    <a href="https://github.com/wisebtw" target="_blank">projects</a> $
   </samp>
 </p>
 
@@ -34,7 +34,7 @@
 
  <br><br>
  <br>
-<img align="left" src="https://profile-counter.glitch.me/almightydev/count.svg" />
+<img align="left" src="https://profile-counter.glitch.me/wisebtw/count.svg" />
 
  -->
 
